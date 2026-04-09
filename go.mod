@@ -247,6 +247,5 @@ replace (
 	github.com/syndtr/goleveldb => github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	// Avoid change in slices.SortFunc, see https://github.com/cosmos/cosmos-sdk/issues/20159
 	golang.org/x/exp => golang.org/x/exp v0.0.0-20230711153332-06a737ee72cb
+    github.com/Kava-Labs/opendb => github.com/evara-c/opendb v0.0.0-20240719173129-a2f11f6d7e51
 )
-
-replace github.com/Kava-Labs/opendb => github.com/evara-c/opendb v0.0.0-20240719173129-a2f11f6d7e51
