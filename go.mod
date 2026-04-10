@@ -1,4 +1,4 @@
-module github.com/kava-labs/kava
+module github.com/evara-c/evara-chain
 
 go 1.21
 
